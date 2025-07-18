@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=faedcd&center=true&vCenter=true&width=600&lines=Software+Developer;Web+Developer;AI+Systems;Open+Source+Contributor" alt="Professional Titles" />
 <br>
 
-[![Shadab-Arzoo github stats](https://github-readme-stats.vercel.app/api?username=Shadab-Arzoo&count_private=true&show_icons=true&theme=gruvbox_light&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Shadab-Arzoo github stats](https://github-readme-stats.vercel.app/api?username=Shadab-Arzoo&count_private=true&show_icons=true&theme=gruvbox_light&hide_rank=false)]
 
 
 ## 🌐 Socials:
